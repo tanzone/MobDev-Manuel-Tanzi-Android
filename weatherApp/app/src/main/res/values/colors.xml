@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- morning colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+	<color name="purple_200">#FFBB86FC</color>
+	<color name="purple_500">#FF6200EE</color>
+	<color name="purple_700">#FF3700B3</color>
+	<color name="teal_200">#FF03DAC5</color>
+	<color name="teal_700">#FF018786</color>
+	<color name="black">#FF000000</color>
+	<color name="white">#FFFFFFFF</color>
+
+	<color name="_bg__morning_color">#000000</color>
+	<color name="_bg__evening_color">#000000</color>
+	<color name="rectangle_915_color">#ffffff</color>
+	<color name="day2_color">#668BB1</color>
+	<color name="txtdescday2_color">#FFFFFF</color>
+    <color name="_bg__night_color">#ffffff</color>
+	<color name="_bg__rain_color">#ffffff</color>
+</resources>

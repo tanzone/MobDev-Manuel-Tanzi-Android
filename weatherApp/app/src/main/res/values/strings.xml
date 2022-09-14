@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="search">Search</string>
+    <string name="searching">Searching...</string>
+    <string name="temp"> </string>
+    <string name="hour"> </string>
+    <string name="temperatura">temperatura</string>
+    <string name="temp2"> </string>
+    <string name="day"> </string>
+    <string name="condition"> </string>
+    <string name="map">map</string>
+    <string name="favorite">map</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
